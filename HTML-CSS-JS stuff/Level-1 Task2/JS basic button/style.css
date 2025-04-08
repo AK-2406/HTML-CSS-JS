@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #0b061f;
+}
+
+
+.btn {
+    padding: 20px 80px;
+    background: 	#FA8072;
+    border: 2px solid #fff;
+    outline: none;
+    border-radius: 8px;
+    box-shadow: 0 0 40px 	#FA8072;
+    font-size: 40px;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
